@@ -1,0 +1,61 @@
+.e{
+
+	position: absolute;
+	top: 22%;
+	left: 10%;
+	width: 10%;
+	height: 30%;
+	text-align: center;	
+}
+.cuadros3{
+
+	position: absolute;
+	top: 25%;
+	left: 0%;
+	width: 20%;
+	height: 40%;
+	text-align: center;
+	text-decoration: none;
+	border:#33BBFF 5px dotted;
+	border-radius: 50px;
+}
+.o{
+position: absolute;
+	top: 30%;
+	left: 10%;
+	width: 10%;
+	height: 30%;
+	text-align: center;
+	text-decoration: none;
+}
+.pero{
+position: absolute;
+	top: 34%;
+	left: 10%;
+	width: 10%;
+	height: 30%;
+	text-align: center;
+	text-decoration: none;
+}
+.perro{
+position: absolute;
+	top: 40%;
+	left: 10%;
+	width: 10%;
+	height: 30%;
+	text-align: center;
+	text-decoration: none;
+}
+.lo{
+
+position: absolute;
+	top: -40%;
+	left: 10%;
+	width: 10%;
+	height: 30%;
+	text-align: center;
+	font-size: 33px;
+	text-decoration: none;
+
+
+}
